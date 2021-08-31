@@ -371,7 +371,7 @@ bool PQ(priority_queue<Node* , vector<Node*> ,Compare > pq, int c){
 int main(){
     
     char Board[3][3];
-    priority_queue<Node* , vector<Node*> ,Compare > pq;
+ 
     string start ;
     string goal;
 
